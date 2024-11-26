@@ -1,0 +1,50 @@
+# Virtual Environment Directories
+venv/
+env/
+.env/
+.venv/
+virtualenv/
+*.pyenv
+
+# Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Dependency Directories
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+
+# Specific Dependency and Environment Files
+requirements.txt.lock
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and Editor Directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Specific Dependency Tracking
+*.manifest
+*.spec
