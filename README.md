@@ -37,7 +37,7 @@ concurrent.futures
 
 🔧 Installation
 1. Clone the Repository
-bashCopygit clone https://github.com/yourusername/vulnerability-scanner.git
+bashCopygit clone https://github.com/ray-sdj/vulnerability-scanner.git
 cd vulnerability-scanner
 2. Install Dependencies
 bashCopypip install -r requirements.txt
